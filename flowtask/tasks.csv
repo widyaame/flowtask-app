@@ -1,4 +1,0 @@
-id,title,description,status,assignedTo,createdDate
-1,Fix Login Bug,Login screen freezes occasionally,Pending,John,2023-10-27
-2,Update UI,Refresh the dashboard design,Progress,Sarah,2023-10-26
-3,Database Backup,Ensure daily backups are running,Done,Mike,2023-10-25
