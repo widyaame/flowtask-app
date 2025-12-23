@@ -52,4 +52,5 @@ Ikuti langkah-langkah berikut untuk mengompilasi dan menjalankan aplikasi:
 *   `src/util`: Utilitas dan konstanta UI (`UIConstants`, `RoundedButtonUI`).
 
 ---
-Hak Cipta 2024 TaskFlow.
+Hak Cipta 2025 TaskFlow.
+
